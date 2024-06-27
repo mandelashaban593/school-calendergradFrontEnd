@@ -20,7 +20,7 @@ yarn dev
 Access the Application
 Open http://localhost:3000 in your web browser to view the app.
 
-Login Credentials
+Login  Test Credentials
 Admin
 Username: daddyshaban593@gmail.com or mandelashaban593@gmail.com
 Password: simple100
