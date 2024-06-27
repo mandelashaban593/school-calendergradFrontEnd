@@ -1,5 +1,6 @@
 Frontend Setup (React Next.js)
-Getting Started
+
+Instructions
 
 Clone the Repository
 
